@@ -1,0 +1,7 @@
+﻿{
+inteiro int => 5;
+logico bool => verdadeiro;
+se ( condicao ) { codigo }
+literal string => "Testes";
+enquanto ( verdadeOuFalso ) { codigo }
+}

@@ -1,0 +1,14 @@
+C:\Users\Monir\source\repos\AnalisadorLexicoLFP\bin\Debug\netcoreapp3.1\AnalisadorLexicoLFP.exe
+C:\Users\Monir\source\repos\AnalisadorLexicoLFP\bin\Debug\netcoreapp3.1\AnalisadorLexicoLFP.deps.json
+C:\Users\Monir\source\repos\AnalisadorLexicoLFP\bin\Debug\netcoreapp3.1\AnalisadorLexicoLFP.runtimeconfig.json
+C:\Users\Monir\source\repos\AnalisadorLexicoLFP\bin\Debug\netcoreapp3.1\AnalisadorLexicoLFP.runtimeconfig.dev.json
+C:\Users\Monir\source\repos\AnalisadorLexicoLFP\bin\Debug\netcoreapp3.1\AnalisadorLexicoLFP.dll
+C:\Users\Monir\source\repos\AnalisadorLexicoLFP\bin\Debug\netcoreapp3.1\AnalisadorLexicoLFP.pdb
+C:\Users\Monir\source\repos\AnalisadorLexicoLFP\obj\Debug\netcoreapp3.1\AnalisadorLexicoLFP.AssemblyInfoInputs.cache
+C:\Users\Monir\source\repos\AnalisadorLexicoLFP\obj\Debug\netcoreapp3.1\AnalisadorLexicoLFP.AssemblyInfo.cs
+C:\Users\Monir\source\repos\AnalisadorLexicoLFP\obj\Debug\netcoreapp3.1\AnalisadorLexicoLFP.csproj.CoreCompileInputs.cache
+C:\Users\Monir\source\repos\AnalisadorLexicoLFP\obj\Debug\netcoreapp3.1\AnalisadorLexicoLFP.dll
+C:\Users\Monir\source\repos\AnalisadorLexicoLFP\obj\Debug\netcoreapp3.1\AnalisadorLexicoLFP.pdb
+C:\Users\Monir\source\repos\AnalisadorLexicoLFP\obj\Debug\netcoreapp3.1\AnalisadorLexicoLFP.genruntimeconfig.cache
+C:\Users\Monir\source\repos\AnalisadorLexicoLFP\bin\Debug\netcoreapp3.1\file.lmh
+C:\Users\Monir\source\repos\AnalisadorLexicoLFP\obj\Debug\netcoreapp3.1\AnalisadorLexicoLFP.csprojAssemblyReference.cache

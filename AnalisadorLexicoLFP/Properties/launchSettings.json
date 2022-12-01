@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AnalisadorLexicoLFP": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Monir\\source\\repos\\AnalisadorLexicoLFP\\file.lmh"
+    }
+  }
+}
